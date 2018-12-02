@@ -1,8 +1,0 @@
- const Discord = require("discord.js");
-const client = new Discord.Client();
-client.on('ready', () => {
-    client.user.setGame(`I Can Do It`,'https://www.twitch.tv/justzayd5k')
-client.user.setStatus("dnd")
-    
-});
-client.login(NDc1MzY4NjQ0MjkwMDE5MzM4.DmgZkQ.0x5LMQCjnojoSggA2Uqmk0kWSBE); 
